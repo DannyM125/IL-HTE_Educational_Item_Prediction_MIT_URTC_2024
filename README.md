@@ -1,7 +1,7 @@
 # IL-HTE_Educational_Item_Prediction_MIT_URTC_2024
 
+![Final Copy of MIT_URTC_2024 - A Comparative Evaluation of the Predictive Performance of Artificial Neural Networks and Item Response Models for Educational Item-Level Heterogeneous Treatment Effects - September 6, 6_47 PM](https://github.com/user-attachments/assets/34beccfb-f7cd-4722-9f6c-5b9cde63f56a)
 
-![MIT_URTC_2024 - A Comparative Evaluation of the Predictive Performance of Artificial Neural Networks and Item Response Models for Educational Item-Level Heterogeneous Treatment Effects](https://github.com/user-attachments/assets/1569c17f-b0c1-4797-802c-aec3925faff6)
 
 
 
